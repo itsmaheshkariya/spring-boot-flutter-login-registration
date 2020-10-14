@@ -46,7 +46,5 @@ http://localhost:8080/register
 
 `Demo`
 
-![Simulator Screen Shot - iPhone 11 - 2020-10-14 at 08 56 33](https://user-images.githubusercontent.com/16520789/95986093-14d47e00-0e43-11eb-8be1-5b97165ee066.png)
-![Simulator Screen Shot - iPhone 11 - 2020-10-14 at 08 56 33](https://user-images.githubusercontent.com/16520789/95986094-14d47e00-0e43-11eb-9e86-fd8bb2f7053c.png)
-
+![flutter+strapi (Copy)](https://user-images.githubusercontent.com/16520789/95990710-7ac40400-0e49-11eb-976d-094490b57202.png)
 
